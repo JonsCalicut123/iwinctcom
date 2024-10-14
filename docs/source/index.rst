@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+iwinct Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`iWin <https://iwinct.com/>`_ - Cổng Game Thượng Lưu iWin Club: iWinct, iWin CT. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 258/15/9 Thái Phiên, Phường 8, Quận 11, Thành phố Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0925885298
 
-Contents
---------
+Email: admin@iwinct.com
 
-.. toctree::
+Website: https://iwinct.com/
 
-   usage
-   api
+#iwin, #iwinclub, #iwin_club, #iwinct, #iwin_ct, #iwinchinhhang, #taiiwin, #gamebaiiwin, #gamdoithuongiwin, #taixiuiwin, #dangkyiwin
